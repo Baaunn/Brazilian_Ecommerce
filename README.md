@@ -1,7 +1,17 @@
+## Overview  
+This repository contains my analysis project using the Olist Brazilian e-commerce dataset.
+I identified key drivers of customer satisfaction and churn through data merging, preprocessing, feature engineering, RFM segmentation, EDA, and geospatial analysis.
+Key findings: delivery time strongly affects review scores, VIP and churn customers show different purchasing patterns, and many churn customers were satisfied one-time buyers.
+Focus: deriving business insights for customer retention.
+
+## Environment  
+Python (pandas, numpy, matplotlib, seaborn, folium).  
+Notebooks are organized to follow the workflow from data cleaning → segmentation → analysis.
+
+---
+
 # 🇧🇷 Olist 브라질 이커머스 데이터 분석
 ### : 고객 만족도의 핵심 동인과 VIP/이탈 고객 세그먼트 분석
-
-
 
 ## 1. 프로젝트 개요 (Introduction)
 
